@@ -3,3 +3,4 @@ obj/
 .vs/
 *.user
 *.suo
+welcome_shown.flag
