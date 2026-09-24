@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net11.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+
+    <ApplicationIcon>xdeaderlabo.ico</ApplicationIcon>
+    <AssemblyTitle>XProtection-1.0.0-alpha</AssemblyTitle>
+    <Product>XProtection 1.0.0 Alpha</Product>
+    <Company>XDeader Laboratories ©</Company>
+    <Copyright>Copyright © XDeader Laboratories 2026.</Copyright>
+    <Version>1.0.0-alpha</Version>
+    <Description>Free antivirus and VPN software by XDeader Laboratories ©.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WinForms.Fluent" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>

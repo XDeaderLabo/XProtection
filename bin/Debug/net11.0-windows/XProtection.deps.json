@@ -1,0 +1,42 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "XProtection/1.0.0-alpha": {
+        "dependencies": {
+          "WinForms.Fluent": "1.0.0"
+        },
+        "runtime": {
+          "XProtection.dll": {}
+        }
+      },
+      "WinForms.Fluent/1.0.0": {
+        "runtime": {
+          "lib/net9.0-windows7.0/WinForms.Fluent.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0",
+            "localPath": "WinForms.Fluent.dll"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XProtection/1.0.0-alpha": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinForms.Fluent/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eFfajRCrAq4xd0ZMVLWqwqT3vj7EqmLSQcRwwhp5lcZCo0Wqm4/IP+hB2wt7AEuXNbu3eZut5k+W1/LTns4Qqw==",
+      "path": "winforms.fluent/1.0.0",
+      "hashPath": "winforms.fluent.1.0.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+C:\Users\AH\Code\XProtection\bin\Release\net11.0-windows\win-x64\publish\XProtection.pdb
+C:\Users\AH\Code\XProtection\bin\Release\net11.0-windows\win-x64\publish\XProtection.exe
